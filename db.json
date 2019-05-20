@@ -1,0 +1,31 @@
+{  
+   "centroCosto":[  
+      {  
+         "id_cc":123,
+         "cc":"HC",
+         "nombre_corto":"HC La calera",
+         "nombre_largo":"HC 04 La Calera",
+         "nombre_cc":"HC",
+         "es_tienda":false,
+         "desactivado":false
+      },
+      {  
+         "id_cc":345,
+         "cc":"USE",
+         "nombre_corto":"USE Antofagasta",
+         "nombre_largo":"USE Antofagasta",
+         "nombre_cc":"USE",
+         "es_tienda":true,
+         "desactivado":false
+      },
+      {  
+         "id_cc":987,
+         "cc":"HC",
+         "nombre_corto":"HC Osorno",
+         "nombre_largo":"HC Osorno",
+         "nombre_cc":"Osorno",
+         "es_tienda":true,
+         "desactivado":true
+      }
+   ]
+}
